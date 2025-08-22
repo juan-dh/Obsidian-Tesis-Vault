@@ -1,0 +1,11 @@
+{
+  "cssTheme": "",
+  "accentColor": "",
+  "theme": "system",
+  "baseFontSize": 21,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Notebook Backgrounds"
+  ]
+}

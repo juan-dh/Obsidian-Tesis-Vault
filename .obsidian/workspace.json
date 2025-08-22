@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A09.md",
+                "file": "Tesis/Avances/A09.md",
                 "mode": "source",
                 "source": false
               },
@@ -143,17 +143,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tesis/Avances/A06.md",
+                "file": "Tesis/Avances/A09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A06"
+              "title": "Outline of A09"
+            }
+          },
+          {
+            "id": "b64209dc5ac9f1bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ed5b9e61b84e9ecc",
@@ -174,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,14 +196,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c772aa1abfbae7a0",
+  "active": "d069f201108d123d",
   "lastOpenFiles": [
-    "Tesis/Avances/A07.md",
+    "2025-07-28.md",
+    "Tesis/Avances/A09.md",
+    "Tesis/Home.md",
     "Tesis/Avances/A08.md",
-    "A09.md",
+    "Bienvenido 🐕.md",
+    "Tesis/Avances/A07.md",
     "Tesis/Avances/A06.md",
     "Tesis/Avances/A05.md",
     "Tesis/Archivos/vargas2018-2.pdf",
@@ -203,9 +216,6 @@
     "Tesis/Avances/A03.md",
     "Tesis/Avances/A01.md",
     "Tesis/Avances/A02.md",
-    "Tesis/Home.md",
-    "Untitled.md",
-    "2025-07-28.md",
     "Tesis/Archivos/2305.01582v3.pdf",
     "bruntonDiscoveringGoverningEquations2016.md",
     "Tesis/Papers/P - Kerr-Newman.md",
